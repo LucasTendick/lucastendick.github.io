@@ -13,7 +13,7 @@ profile:
     <p>Inria Paris-Saclay</p>
     <p>Alan Turing Building</p>
     <p>1 Rue Honoré d'Estienne d'Orves</p>
-    <p>1 91120 Palaiseau</p>
+    <p>91120 Palaiseau</p>
      
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
