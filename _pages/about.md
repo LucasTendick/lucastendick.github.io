@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Marie-Skłodowska-Curie Postdoctoral Fellow | <a href='https://team.inria.fr/phiqus/'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
