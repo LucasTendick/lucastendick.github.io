@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Marie-Skłodowska-Curie Postdoctoral Fellow | <a href='https://team.inria.fr/phiqus/'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Marie-Skłodowska-Curie Actions Postdoctoral Fellow | <a href='https://team.inria.fr/phiqus/'>PhIQus Team</a> | Inria Paris-Saclay | Inria, CPHT, LIX, CNRS, École polytechnique, Institut Polytechnique de Paris | Palaiseau, France
 
 profile:
   align: right
