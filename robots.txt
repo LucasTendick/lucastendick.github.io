@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucastendick.github.io//al-folio/sitemap.xml
+Sitemap: https://lucastendick.github.io//sitemap.xml
