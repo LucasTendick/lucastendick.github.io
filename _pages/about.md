@@ -7,7 +7,7 @@ subtitle: Marie-Skłodowska-Curie Actions Postdoctoral Fellow | <a href='https:/
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 Room 1113 </p>
     <p>Inria Paris-Saclay</p>
