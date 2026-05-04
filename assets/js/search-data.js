@@ -485,6 +485,27 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-5210-6710", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/LucasTendick", "_blank");
+        },
+      },{
+        id: 'social-arxiv',
+        title: 'arXiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/https://arxiv.org/search/?query=Lucas+Tendick.html", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://team.inria.fr/phiqus/", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
