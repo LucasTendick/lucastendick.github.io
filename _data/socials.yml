@@ -5,7 +5,9 @@
 email: "lucas-amadeus.tendick@inria.fr" # your email address
 scholar_userid: "oRsE2swAAAAJ" # your Google Scholar ID
 github:
-  id: "LucasTendick"
+  url: "https://github.com/LucasTendick"
+  title: "GitHub"
+  icon: "fab fa-github"
 # github: "LucasTendick"
 # orcid: 0000-0001-5210-6710
 
