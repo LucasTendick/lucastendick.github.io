@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 Room 1113 </p>
+    <p> Room 1113 </p>
     <p>Inria Paris-Saclay</p>
     <p>Alan Turing Building</p>
     <p>1 Rue Honoré d'Estienne d'Orves</p>
