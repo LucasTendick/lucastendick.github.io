@@ -496,7 +496,7 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/http://arxiv.org/a/tendick_l_1.html", "_blank");
+          window.open("https://arxiv.org/a/tendick_l_1.html", "_blank");
         },
       },{
         id: 'social-work',
