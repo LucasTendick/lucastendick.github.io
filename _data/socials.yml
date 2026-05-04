@@ -5,25 +5,13 @@
 email: "lucas-amadeus.tendick@inria.fr" # your email address
 scholar_userid: "oRsE2swAAAAJ" # your Google Scholar ID
 orcid_id: "0000-0001-5210-6710" 
-
-# github:
-#  url: "https://github.com/LucasTendick"
-#  title: "GitHub"
-#  icon: "fab fa-github"
-# github: "LucasTendick"
-# orcid: 0000-0001-5210-6710
-
-# arxiv: "https://arxiv.org/search/?query=Lucas+Tendick"
+github_username: "LucasTendick"
+arxiv_id: "https://arxiv.org/search/?query=Lucas+Tendick"
+work_url: "https://team.inria.fr/phiqus/"
 
 
-# inspirehep_id: 1010907 # Inspire HEP author ID
-# rss_icon: true # comment this line to hide the RSS icon
-
-
-  
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-# wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
