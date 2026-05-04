@@ -478,6 +478,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=oRsE2swAAAAJ", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5210-6710", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
