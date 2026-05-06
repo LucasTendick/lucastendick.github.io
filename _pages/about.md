@@ -30,10 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Lucas Tendick. As of March 2026, I'm an MSCA postdoctoral fellow in the <a href='https://team.inria.fr/phiqus/'>PhIQus Team</a> at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Paris-Saclay</a> with the project <a href='https://cordis.europa.eu/project/id/101208259'>QNETS</a>. I work on quantum information theory. 
+Hi, I'm Lucas Tendick. As of March 2026, I'm an MSCA postdoctoral fellow in the <a href='https://team.inria.fr/phiqus/'>PhIQus Team</a> at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Paris-Saclay</a> with the project <a href='https://cordis.europa.eu/project/id/101208259'>QNETS</a>. I'm a member of steering committee of the <a href='https://www.yqisconference.org/'>YQIS conference</a>. My work is concerend with quantum information theory. 
 
 
-My main research interests are in quantum correlations, the theory of quantum measurements, and applications of quantum theory to theoretical computer science. Some research topics I have worked on so far include: Bell nonlocality, quantum steering, quantum networks measurement incompatibility, quantum resource theories, distributed computing, and compiled Bell games. 
+My main research interests are in quantum correlations, the theory of quantum measurements, and applications of quantum theory to theoretical computer science. Some research topics I have worked on so far include: Bell nonlocality, quantum steering, quantum networks, measurement incompatibility, quantum resource theories, distributed computing, and compiled Bell games. 
 
 I'm working at INRIA in Paris-Saclay as a postdoc since December 2023 and was previously a PhD Student (2019-2023) at the Heinrich Heine University in Düsseldorf, in the group of <a href='https://www.tp3.hhu.de/'>Dagmar Bruß </a>.
 
