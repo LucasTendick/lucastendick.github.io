@@ -39,6 +39,6 @@ I'm working at INRIA in Paris-Saclay as a postdoc since December 2023 and was pr
 
 Here, you will find an up-to-date list of all my scientific papers and theses, code repositories accompanying my papers, some of my talks and posters, my CV, recent news, and soon also my blog.
 
-All my research papers are available at [arXiv](https://arxiv.org/a/tendick_l_1.html) and on [Google Scholar](https://scholar.google.com/citations?user=oRsE2swAAAAJ). Codes accompanying my papers can be found on <a href="https://github.com/LucasTendick">GitHub</a>.
+All my research papers are available on the [arXiv](https://arxiv.org/a/tendick_l_1.html) and on [Google Scholar](https://scholar.google.com/citations?user=oRsE2swAAAAJ). Codes accompanying my papers can be found on <a href="https://github.com/LucasTendick">GitHub</a>.
 
 If you are interested in my research, the research group I'm currently working in or you have other related questions, feel free to contact me via [mail](mailto:lucas-amadeus.tendick@inria.fr). 
