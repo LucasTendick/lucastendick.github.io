@@ -30,4 +30,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
- Hi, I am Lucas Tendick. 
+ Hi, I am Lucas Tendick. As of March 2026, I'm an MSCA postdoctoral fellow in the <a href='https://team.inria.fr/phiqus/'>PhIQus Team</a> at <a href='https://www.inria.fr/en/inria-saclay-centre'>Inria Paris-Saclay</a> with the project <a href='https://cordis.europa.eu/project/id/101208259'>QNETS</a>.  
