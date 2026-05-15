@@ -8,8 +8,4 @@ nav_order: 4
 calendar: false
 ---
 
-Here, I will try to monitore my carbon impact caused through my job, e.g., traveling to international conferences and lab visits.
 
-
-
-{% include courses.liquid %}
