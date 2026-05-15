@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/CarbonImpact/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a summary of my CV. You can find my complete CV by clicking on the PDF icon over there. ↗️",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-materials",
           title: "Materials",
           description: "Here are some slides, videos, and posters from conferences that I attended. A complete list can be found in my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Materials/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "This is a summary of my CV. You can find my complete CV by clicking on the PDF icon over there. ↗️",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
