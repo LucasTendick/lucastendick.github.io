@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-carbon-impact",
           title: "Carbon Impact",
-          description: "Here, I will try to monitore my carbon impact caused through my job, e.g., traveling to international conferences and lab visits.",
+          description: "Here, I will try to monitore my carbon impact caused through my job, e.g., by traveling to international conferences and lab visits.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/CarbonImpact/";
