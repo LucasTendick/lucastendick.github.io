@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-carbon-impact",
-          title: "Carbon Impact",
-          description: "Here, I will try to monitore my carbon impact caused through my job, e.g., traveling to international conferences and lab visits.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/CarbonImpact/";
-          },
         },{id: "nav-materials",
           title: "Materials",
           description: "Here are some slides, videos, and posters from conferences that I attended. A complete list can be found in my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Materials/";
+          },
+        },{id: "nav-carbon-impact",
+          title: "Carbon Impact",
+          description: "Here, I will try to monitore my carbon impact caused through my job, e.g., traveling to international conferences and lab visits.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/CarbonImpact/";
           },
         },{id: "nav-cv",
           title: "CV",
