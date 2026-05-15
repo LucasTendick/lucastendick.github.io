@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 6
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-description: This is a summary of my CV. You can find my complete CV [here](/assets/pdf/LucasTendick_CV.pdf).	
+description: This is a summary of my CV. You can find my complete CV [here](/assets/pdf/PhDThesis.pdf).
 
 ---
 
@@ -33,16 +33,16 @@ Member of the [PhIQus](https://team.inria.fr/phiqus/) research team.
 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
 **PhD in Physics**,  [University of Düsseldorf](https://www.hhu.de/), Düsseldorf, Germany, (Jan 2019 -- Mar 2023) \\
 PhD Thesis: [Interplay of Quantum Resources in Bell-type Scenarios](/assets/pdf/PhDThesis.pdf) \\
-Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
+Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) 
 
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
 **MSc in Physics**, [University of Düsseldorf](https://www.hhu.de/), Düsseldorf, Germany, (Feb 2017 -- Dec 2018) \\
 Master Thesis: Hidden nonlocality \\
-Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
+Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/)
 
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
 **BSc in Physics**, [University of Düsseldorf](https://www.hhu.de/), Düsseldorf, Germany, (Oct 2013 -- Jan 2017) \\
 Bachelor Thesis: Quantum Clocks \\
-Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
+Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) 
