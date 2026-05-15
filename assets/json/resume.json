@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
+    "name": "Lucas Tendick",
+    "label": "Postdoc",
+    "image": "prof_pic.jpg",
+    "email": "lucas-amadeus.tendick@inria.fr",
+    "phone": "",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "1 Rue Honoré d'Estienne d'Orves",
+      "postalCode": "91120",
+      "city": "Palaiseau",
+      "countryCode": "FR",
+      "region": ""
     },
     "profiles": []
   },
