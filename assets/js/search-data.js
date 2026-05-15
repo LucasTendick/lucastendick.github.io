@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-carbon-impact",
+          title: "Carbon Impact",
+          description: "Here, I will try to monitore my carbon impact caused through my job, e.g., traveling to international conferences and lab visits.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/CarbonImpact/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
