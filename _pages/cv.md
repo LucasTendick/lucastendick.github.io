@@ -37,14 +37,12 @@ Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
 
 
 <i class="fa fa-graduation-cap" aria-hidden="true"></i>
-**MSc in Physics**, [Universidade Federal de Minas Gerais](https://ufmg.br/), Belo Horizonte, Brazil, (Aug 2010 -- Sep 2012) \\
-Master Thesis: [Black Box Correlations: Locality, Noncontextuality, and Convex Polytopes](https://repositorio.ufmg.br/handle/1843/BUOS-A46HJC) \\
-Supervisor: [Marcelo Terra Cunha](https://www.ime.unicamp.br/~tcunha/)\\
-Co-Supervisor: [Daniel Cavalcanti](https://danielcavalcanti.com/) \\
-Funding: [CAPES, Brazil](https://www.gov.br/capes/)
+**MSc in Physics**, [University of Düsseldorf](https://www.hhu.de/), Düsseldorf, Germany, (Feb 2017 -- Dec 2018) \\
+Master Thesis: Hidden nonlocality \\
+Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> 
-**BSc in Physics**, [Universidade Federal de Minas Gerais](https://ufmg.br/), Belo Horizonte, Brazil, (Jan 2007 -- Aug 2010)
-Undergrad Monograph: [Não-localidade como recurso para comunicação](https://www.ime.unicamp.br/~tcunha/MonografiaMTulio.pdf) \\
-Supervisor: [Marcelo Terra Cunha](https://www.ime.unicamp.br/~tcunha/) \\
-Funding: [CNPq, Brazil](https://www.gov.br/cnpq)
+
+<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+**BSc in Physics**, [University of Düsseldorf](https://www.hhu.de/), Düsseldorf, Germany, (Oct 2013 -- Jan 2017) \\
+Bachelor Thesis: Quantum Clocks \\
+Supervisor: [Dagmar Bruß](https://www.tp3.hhu.de/) \\
