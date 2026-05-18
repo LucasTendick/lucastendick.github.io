@@ -2,7 +2,7 @@
 layout: page
 permalink: /Materials/
 title: Materials
-description: Here, you can find some slides, videos, and posters of my work from conferences that I attended. A complete list of conferences that I attended caN be found in my [CV](/assets/pdf/LucasTendick_CV.pdf).
+description: Here, you can find some slides, videos, and posters of my work from conferences that I attended. A complete list of conferences that I attended can be found in my CV.
 nav: true
 nav_order: 4
 calendar: false
