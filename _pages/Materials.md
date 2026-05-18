@@ -38,4 +38,4 @@ calendar: false
 
 * **Distributed Computing and its Links to Quantum Information Theory and the NPA Hierarchy**\\
 [828. WE-Heraeus-Seminar - Bad Honnef, Germany, March 2025](https://www.we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/)\\
-<a href="{{'/assets/talks/Poster_DistributedComputing_BadHonnef..pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+<a href="{{'/assets/talks/Poster_DistributedComputing_BadHonnef.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
