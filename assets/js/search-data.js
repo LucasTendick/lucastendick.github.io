@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-materials",
           title: "Materials",
-          description: "Here, you can find some slides, videos, and posters of my work from conferences that I attended. A complete list of conferences that I attended caN be found in my [CV](/assets/pdf/LucasTendick_CV.pdf).",
+          description: "Here, you can find some slides, videos, and posters of my work from conferences that I attended. A complete list of conferences that I attended can be found in my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Materials/";
