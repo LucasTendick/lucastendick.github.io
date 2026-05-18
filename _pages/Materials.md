@@ -31,3 +31,7 @@ calendar: false
 * **Quantum Correlations Cannot Be Reproduced with a Finite Number of Measurements in Any No-Signaling Theory**\\
 [CEQIP - Smolenice, Slovakia, July 2025](https://ceqip.eu/2025/index.php?ceqip=home)\\
 <a href="{{'/assets/talks/Poster_CEQip.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+
+* **Distributed Computing and its Links to Quantum Information Theory and the NPA Hierarchy**\\
+[828. WE-Heraeus-Seminar - Bad Honnef, Germany, March 2025](https://www.we-heraeus-stiftung.de/veranstaltungen/operator-theory-and-polynomial-optimization-in-quantum-information-theory/)\\
+<a href="{{'/assets/talks/Poster_DistributedComputing_BadHonnef..pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
