@@ -18,6 +18,10 @@ calendar: false
 [YQIS - Barcelona, Spain, October 2025](https://www.icfo.eu/event/4000/8th-international-conference-for-young-quantum-information-scientists-yqis25-/)\\
 <a href="{{'/assets/talks/YQIS25.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
 
+* **Distributed Quantum Incompatibility**\\
+[Quantum Information Working Group Seminar (online)  - Warsaw, Poland, April 2024](https://www.youtube.com/playlist?list=PL9KfozrSC_kGk9dHw_80AGfuNDU8I2TNl)\\
+<a href="{{'/assets/talks/DistributedQuantumIncompatibility.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a> <a href="https://www.youtube.com/watch?v=6HINOwIbL_0" class="btn btn-sm z-depth-0" role="button">Video</a>
+
 
 
 
