@@ -11,11 +11,13 @@ calendar: false
 #### Talks:
 
 * **Quantum Correlations Cannot Be Reproduced with a Finite Number of Measurements in Any No-Signaling Theory**\\
-[YQIS - Barcelona 2025](https://www.icfo.eu/event/4000/8th-international-conference-for-young-quantum-information-scientists-yqis25-/)\\
-<a href="{{'/assets/talks/YQIS25.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">slides</a>
-
-
+[YQIS - Barcelona, Spain, 2025](https://www.icfo.eu/event/4000/8th-international-conference-for-young-quantum-information-scientists-yqis25-/)\\
+<a href="{{'/assets/talks/YQIS25.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
 
 
 
 #### Posters:
+
+* **Quantum Correlations Cannot Be Reproduced with a Finite Number of Measurements in Any No-Signaling Theory**\\
+[851. WE-Heraeus-Seminar - Bad Honnef, Germany, 2026](https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/main/)\\
+<a href="{{'/assets/talks/PosterBadHonnef.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
