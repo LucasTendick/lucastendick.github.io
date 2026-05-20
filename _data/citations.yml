@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-20'
 papers:
   oRsE2swAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Activation of nonlocality in bound entanglement
     year: '2020'
   oRsE2swAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: Distributed quantum advantage for local problems
     year: '2025'
   oRsE2swAAAAJ:Tyk-4Ss8FVUC:
@@ -26,13 +26,17 @@ papers:
     title: Can every set of incompatible measurements lead to genuine multipartite steering?
     year: '2026'
   oRsE2swAAAAJ:Y0pCki6q_DkC:
-    citations: 2
+    citations: 3
     title: Quantum correlations cannot be reproduced with a finite number of measurements in any no-signaling theory
     year: '2025'
   oRsE2swAAAAJ:YsMSGLbcyi4C:
     citations: 1
     title: Quantitative quantum soundness for all multipartite compiled nonlocal games
     year: '2025'
+  oRsE2swAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: 'A missing causal principle: Coordination'
+    year: '2026'
   oRsE2swAAAAJ:d1gkVwhDpl0C:
     citations: 17
     title: Distance-based resource quantification for sets of quantum measurements
@@ -49,6 +53,10 @@ papers:
     citations: 9
     title: Distributed quantum incompatibility
     year: '2023'
+  oRsE2swAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: Coordination Requires a Common Cause in Quantum Theory
+    year: '2026'
   oRsE2swAAAAJ:zYLM7Y9cAGgC:
     citations: 3
     title: Unlimited quantum correlation advantage from bound entanglement
