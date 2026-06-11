@@ -21,7 +21,7 @@ To start with some transparancy about my carbon impact, I will keep track here o
 
 **2026**
 
-* Bad Honnef, Germany for the <a href='https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/'> 851. WE-Heraeus-Seminar.</a> Eurostar Train back and forth, ~850km ≈ 5.5 kg CO2e
+* Bad Honnef, Germany for the <a href='https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/'> 851. WE-Heraeus-Seminar.</a> Eurostar Train back and forth, ~850km ≈ 5.5 kg CO2e.
 
 
 **Methodology**
