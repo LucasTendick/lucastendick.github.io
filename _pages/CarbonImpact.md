@@ -24,12 +24,12 @@ To start with some transparancy about my carbon impact, I will keep track here o
 
 * Bad Honnef, Germany for the <a href='https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/'> 851. WE-Heraeus-Seminar.</a>
 
-Train, ~850km ≈ 5.5 kg CO2e
+Eurostar Train back and forth, ~850km ≈ 5.5 kg CO2e
 
 
 **Methodology**
 
-
+I am still working on finding a reliable method to find out the CO2e (carbon dioxide equivalent) emissions for each journey. It's suprisingly hard to find accurate details on this and the various tools/calculators that one finds online give different results. For now, I try to go case-by-case. Ideally, I find the details on the website of whatever company I travelled with. Otherwise, I am using for now the information and the calculator provided by the <a href='https://agirpourlatransition.ademe.fr/particuliers/bureau/calculer-emissions-carbone-trajets'> French ecological transition agency.</a>
 
 
 
