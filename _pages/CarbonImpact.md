@@ -2,7 +2,6 @@
 layout: page
 permalink: /CarbonImpact/
 title: Carbon Impact
-description: 
 nav: true
 nav_order: 5
 calendar: false
