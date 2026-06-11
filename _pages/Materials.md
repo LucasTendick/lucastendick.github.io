@@ -32,7 +32,7 @@ calendar: false
 [851. WE-Heraeus-Seminar - Bad Honnef, Germany, April 2026](https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/main/)\\
 <a href="{{'/assets/talks/PosterBadHonnef.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
-* **Quantum Correlations Cannot Be Reproduced with a Finite Number of Measurements in Any No-Signaling Theory**\\
+* **A hierarchical framework for generalizations of measurement incompatibility**\\
 [CEQIP - Smolenice, Slovakia, July 2025](https://ceqip.eu/2025/index.php?ceqip=home)\\
 <a href="{{'/assets/talks/Poster_CEQip.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
