@@ -22,7 +22,7 @@ To start with some transparancy about my carbon impact, I will keep track here o
 **2026**
 
 * Bad Honnef, Germany for the <a href='https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/'> 851. WE-Heraeus-Seminar.</a> Eurostar train back and forth, ~850km ≈ 5.5 kg CO2e.
-* Seefeld, Austria for the <a href='https://ritschgroup.uibk.ac.at/seefeld2026/index.htm'> t. Seefeld conference.</a> TGV and ICE trains via Munich back and forth, and Flixbus between Munich and Seefeld back and forth ~850km ≈ 12.2 kg CO2e.
+* Seefeld, Austria for the <a href='https://ritschgroup.uibk.ac.at/seefeld2026/index.htm'> Seefeld conference.</a> TGV and ICE trains via Munich back and forth, and Flixbus between Munich and Seefeld back and forth ~850km ≈ 12.2 kg CO2e.
 
 
 **Methodology**
