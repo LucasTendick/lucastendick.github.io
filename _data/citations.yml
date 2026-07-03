@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-07-03'
 papers:
   oRsE2swAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 22
     title: Distributed quantum advantage for local problems
     year: '2025'
+  oRsE2swAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Fermions are fundamentally more nonlocal than Bosons
+    year: '2026'
   oRsE2swAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Strict hierarchy between -wise measurement simulability, compatibility structures, and multi-copy compatibility
@@ -38,7 +42,7 @@ papers:
     title: 'A missing causal principle: Coordination'
     year: '2026'
   oRsE2swAAAAJ:d1gkVwhDpl0C:
-    citations: 17
+    citations: 16
     title: Distance-based resource quantification for sets of quantum measurements
     year: '2023'
   oRsE2swAAAAJ:qjMakFHDy7sC:
@@ -50,7 +54,7 @@ papers:
     title: Quantifying necessary quantum resources for nonlocality
     year: '2022'
   oRsE2swAAAAJ:u5HHmVD_uO8C:
-    citations: 9
+    citations: 8
     title: Distributed quantum incompatibility
     year: '2023'
   oRsE2swAAAAJ:ufrVoPGSRksC:
