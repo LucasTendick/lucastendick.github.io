@@ -20,7 +20,7 @@ function determineGiscusTheme() {
     src: "https://giscus.app/client.js",
     "data-repo": "LucasTendick/lucastendick.github.io",
     "data-repo-id": "R_kgDOSImxoQ",
-    "data-category": "Comments",
+    "data-category": "Announcements",
     "data-category-id": "DIC_kwDOSImxoc4DArTc",
     "data-mapping": "title",
     "data-strict": "1",
