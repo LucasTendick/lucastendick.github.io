@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-10'
 papers:
   oRsE2swAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Activation of nonlocality in bound entanglement
     year: '2020'
   oRsE2swAAAAJ:IjCSPb-OGe4C:
-    citations: 22
+    citations: 25
     title: Distributed quantum advantage for local problems
     year: '2025'
   oRsE2swAAAAJ:LkGwnXOMwfcC:
@@ -49,6 +49,10 @@ papers:
     citations: 1
     title: Distribution of quantum incompatibility across subsets of measurements
     year: '2023'
+  oRsE2swAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Distributed Quantum Advantage for Local Problems
+    year: '2025'
   oRsE2swAAAAJ:u-x6o8ySG0sC:
     citations: 11
     title: Quantifying necessary quantum resources for nonlocality
