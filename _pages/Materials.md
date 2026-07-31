@@ -28,6 +28,10 @@ calendar: false
 
 #### Posters:
 
+* **Can every set of incompatible measurements lead to genuine multipartite steering?**\\
+[7th Seefeld Workshop - Seefeld, Austria, Jun 2026](https://ritschgroup.uibk.ac.at/seefeld2026/index.htm)\\
+<a href="{{'/assets/talks/Poster_Can_every_set_of_incompatible_measurements_produce_GMSTE_Seefeld.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+
 * **Quantum Correlations Cannot Be Reproduced with a Finite Number of Measurements in Any No-Signaling Theory**\\
 [851. WE-Heraeus-Seminar - Bad Honnef, Germany, April 2026](https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/main/)\\
 <a href="{{'/assets/talks/PosterBadHonnef.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
