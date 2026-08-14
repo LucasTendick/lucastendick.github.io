@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-14'
 papers:
   oRsE2swAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -17,16 +17,12 @@ papers:
     citations: 0
     title: Fermions are fundamentally more nonlocal than Bosons
     year: '2026'
-  oRsE2swAAAAJ:Se3iqnhoufwC:
-    citations: 0
-    title: Fermions are fundamentally more nonlocal than Bosons
-    year: '2026'
   oRsE2swAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Strict hierarchy between -wise measurement simulability, compatibility structures, and multi-copy compatibility
     year: '2025'
   oRsE2swAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 7
     title: Quantitative quantum soundness for bipartite compiled Bell games via the sequential NPA hierarchy
     year: '2025'
   oRsE2swAAAAJ:WF5omc3nYNoC:
@@ -38,7 +34,7 @@ papers:
     title: Quantum correlations cannot be reproduced with a finite number of measurements in any no-signaling theory
     year: '2025'
   oRsE2swAAAAJ:YsMSGLbcyi4C:
-    citations: 1
+    citations: 3
     title: Quantitative quantum soundness for all multipartite compiled nonlocal games
     year: '2025'
   oRsE2swAAAAJ:_FxGoFyzp5QC:
@@ -53,12 +49,8 @@ papers:
     citations: 1
     title: Distribution of quantum incompatibility across subsets of measurements
     year: '2023'
-  oRsE2swAAAAJ:roLk4NBRz8UC:
-    citations: 0
-    title: Distributed Quantum Advantage for Local Problems
-    year: '2025'
   oRsE2swAAAAJ:u-x6o8ySG0sC:
-    citations: 12
+    citations: 11
     title: Quantifying necessary quantum resources for nonlocality
     year: '2022'
   oRsE2swAAAAJ:u5HHmVD_uO8C:
