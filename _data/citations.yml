@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-17'
 papers:
   oRsE2swAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Activation of nonlocality in bound entanglement
     year: '2020'
   oRsE2swAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: Distributed quantum advantage for local problems
     year: '2025'
   oRsE2swAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: Strict hierarchy between -wise measurement simulability, compatibility structures, and multi-copy compatibility
     year: '2025'
   oRsE2swAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Quantitative quantum soundness for bipartite compiled Bell games via the sequential NPA hierarchy
     year: '2025'
   oRsE2swAAAAJ:WF5omc3nYNoC:
