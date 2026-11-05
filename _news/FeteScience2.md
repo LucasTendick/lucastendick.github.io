@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-09-25 07:59:00-0400
+date: 2026-10-10 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Today, I had the pleasure to get my first experience in science outreach and communication by participating at the <a href='https://nuitdeschercheurs-france.eu/?LyoN'> Nuit européenne des chercheurs in Lyon</a>! See also this post <a href='https://fr.linkedin.com/posts/inria-saclay_retour-sur-la-nuit-europ%C3%A9enne-des-chercheurs-activity-7523995126784761856-Wrch'> here</a>!. 
+I recently participated at two events of the Fête de la science program at <a href='https://ens-paris-saclay.fr/agenda/fete-de-la-science-paris-saclay-2026'> Université Paris-Saclay </a> and <a href='https://www.polytechnique.edu/actualites/la-fete-de-la-science-lecole-polytechnique-rendez-vous-le-10-octobre-2026'> École polytechnique </a>
