@@ -23,6 +23,8 @@ To start with some transparancy about my carbon impact, I will keep track here o
 
 * Bad Honnef, Germany for the <a href='https://www.we-heraeus-stiftung.de/veranstaltungen/90-years-of-einstein-podolsky-rosen-paradox-foundations-and-applications/'> 851. WE-Heraeus-Seminar.</a> Eurostar train back and forth, ~850km ≈ 5.5 kg CO2e.
 * Seefeld, Austria for the <a href='https://ritschgroup.uibk.ac.at/seefeld2026/index.htm'> Seefeld conference.</a> TGV and ICE trains via Munich back and forth, and Flixbus between Munich and Seefeld back and forth ~850km ≈ 12.2 kg CO2e.
+* Aussois, France for the <a href='https://project.inria.fr/qia2026/'> QIA 2026 workshop.</a> TGV back and forth to Modane and a Taxi back and forth (shared by 6 people) from Modane to Aussois. ~1244km (train) + ~16km ≈ 3.64 kg CO2e + 0.54 kg CO2e.
+* Geneva, Switzerland to visit the group of <a href='https://www.unige.ch/gap/qic/theory/'> quantum information theory group of Nicolas Brunner.</a> TGV to Geneva, ~600km ≈ 1.76 kg CO2e. 
 
 
 **Methodology**
