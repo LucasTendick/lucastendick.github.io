@@ -26,6 +26,7 @@ To start with some transparancy about my carbon impact, I will keep track here o
 * Aussois, France for the <a href='https://project.inria.fr/qia2026/'> QIA 2026 workshop.</a> TGV back and forth to Modane and a Taxi back and forth (shared by 6 people) from Modane to Aussois, ~1244km (train) + ~16km ≈ 3.64 kg CO2e + 0.54 kg CO2e.
 * Geneva, Switzerland to visit the group of <a href='https://www.unige.ch/gap/qic/theory/'> quantum information theory group of Nicolas Brunner.</a> TGV to Geneva, ~600km ≈ 1.76 kg CO2e.
 * Lyon, France for the <a href='https://nuitdeschercheurs-france.eu/?LyoN'> Nuit européenne des chercheurs</a> outreach event. TER train from Geneva and TGV back to Paris, ~118km + ~439km ≈ 3.26 kg CO2e +  1.29 kg CO2e.
+* Sète, France for a group retreat. TGV back and forth, ~791km ≈ 2.32 kg CO2e.
 
 
 **Methodology**
